@@ -1,0 +1,20 @@
+.rowmundo{
+    color:chartreuse;
+}
+.corazul {
+    color:blue;
+}
+h2 {
+    color:orange;
+}
+#titles {
+    background-color: aqua;
+}
+.card img {
+    width: 300px;
+    height: 300px;
+}
+.cards img {
+    width: 400px;
+    height: 600px;
+    }
